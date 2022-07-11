@@ -23,10 +23,10 @@ Below are a few examples of the items that I sell. Feel free to [contact](mailto
 <img src="/images/wcladybug.jpg" width="130"/>
 
 # Bookmarks
-<img src="/images/bookmarkinbook.jpg" width="130"/>
+<img src="/images/bookmarkinbook.JPG" width="130"/>
 <img src="/images/bookmarkonbook.JPG" width="292"/>
 <img src="/images/bookmarkoutbook.JPG" width="130"/>
-<img src="/images/bookmarkfeathersmall.JPG" width="147"/>
+<img src="/images/bookmarkfeathersmall.jpg" width="147"/>
 
 # Booksleeve
 <img src="/images/bsmultiple.jpg" width="230"/>
