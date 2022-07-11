@@ -10,4 +10,4 @@ permalink: /fairs/
 in Topeka, KS on
 October 1, 2022
 
-<img src="/images/wcmultiple.jpg" width="500" /> 
+<img src="/images/wcmultiple.JPG" width="500" /> 
