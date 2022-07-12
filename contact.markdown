@@ -7,7 +7,7 @@ permalink: /contact/
 
 # Email
 
-Feel free to contact me with any quetions you may have
+Feel free to contact me with any questions you may have!
 [kris@kraftyunicorn.com](mailto:kris@kraftyunicorn.com)
 
 
