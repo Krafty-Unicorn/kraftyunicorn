@@ -24,8 +24,8 @@ Below are a few examples of the items that I sell. Feel free to [contact](mailto
 
 # Bookmarks
 <img src="/images\bookmarkinabook1.jpg" width="130"/>
-<img src="/images/bookmarkonbook1.jpg" width="292"/>
-<img src="/images/bookmarkoutbook1.jpg" width="130"/>
+<img src="/images\bookmarkonbook1.jpg" width="292"/>
+<img src="/images\bookmarkoutbook1.jpg" width="130"/>
 <img src="/images\bookmarkfeathersmall.jpg" width="147"/>
 
 
