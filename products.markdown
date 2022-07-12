@@ -19,13 +19,13 @@ Below are a few examples of the items that I sell. Feel free to [contact](mailto
 <img src="/images/wccandy.jpg" width="130"/>
 <img src="/images/wcinplant.jpg" width="130"/>
 <img src="/images/wcjack.jpg" width="130"/>
-<img src="/images/wccandy2.jpg" width="130"/>
+<img src="/images/wccandy21.jpg" width="130"/>
 <img src="/images/wcladybug.jpg" width="130"/>
 
 # Bookmarks
-<img src="/images\bookmarkinbook.JPG" width="130"/>
-<img src="/images/bookmarkonbook.JPG" width="292"/>
-<img src="/images/bookmarkoutbook.JPG" width="130"/>
+<img src="/images\bookmarkinabook1.JPG" width="130"/>
+<img src="/images/bookmarkonbook1.JPG" width="292"/>
+<img src="/images/bookmarkoutbook1.JPG" width="130"/>
 <img src="/images\bookmarkfeathersmall.jpg" width="147"/>
 
 
