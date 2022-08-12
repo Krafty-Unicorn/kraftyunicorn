@@ -1,6 +1,15 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
+title: About
 ---
+
+
+<img src="/images/booth.jpg" width="500" /> 
+
+# Welcome!
+I love making crafts and sharing them with people. It all started with a hobby that I wanted to share. 
+
+
+
+
+
