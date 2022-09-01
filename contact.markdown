@@ -16,6 +16,6 @@ Feel free to contact me with any questions you may have!
 
 # Social Media
 
-Instagram: KraftyUnicorn1 or click <i class="fa-solid fa-arrow-right"></i> <a href="https://www.instagram.com/accounts/login/?next=/kraftyunicorn1/" title="Instagram"><i class="fa-brands fa-instagram-square"></i></a>
+<i class="fa-solid fa-arrow-right"></i> Instagram: <a href="https://www.instagram.com/kraftyunicorn1/" target="_blank" rel="noopener" title="Instagram">KraftyUnicorn1</a>
 
 <img src="/images/earringsceltic.jpg" width="300" /> 
