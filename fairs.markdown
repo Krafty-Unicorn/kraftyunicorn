@@ -6,8 +6,8 @@ permalink: /fairs/
 
 # Where you can find me!
 
-[Oktoberfest 2022 at Prince of Peace Church](https://www.facebook.com/events/755649002269651?active_tab=about)
+Crestview Community Holiday Craft Show
 in Topeka, KS on
 October 1, 2022
 
-<img src="/images\wcmultiple.JPG" width="500" /> 
+<img src="/images\crestview community.JPG" width="500" /> 
