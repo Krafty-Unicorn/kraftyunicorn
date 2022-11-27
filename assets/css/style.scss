@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media screen and (min-width: #{$medium-breakpoint}) {
+  #logo-container {
+    width: 175px;
+  }
+
+  header {
+    display: flex;
+    justify-content: center;
+    .project-name {
+      margin-bottom: 0.5rem;
+    }
+
+    #nav-container {
+      width: 650px;
+    }
+  }
+}
