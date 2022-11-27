@@ -38,6 +38,9 @@ Below are a few examples of the items that I sell. Feel free to [contact](mailto
 # Blind Date with a Book
 <img src="/images/bdwab.jpg" width="250"/>
 
+# Succulent Plants
+<img src="images/plants.jpg" width="250"/>
+
 # Stained Glass
 Handmade stained glass by my mother, Diane
 
