@@ -2,12 +2,10 @@
 layout: default
 title: About
 ---
-
-
-<img src="/images/booth.jpg" width="500" /> 
-
 # Welcome!
-I love making crafts and sharing them with people. It all started with a hobby that I wanted to share. 
+I love making crafts and sharing them with people. It all started with a hobby that I wanted to share.
+
+<img src="/images/setupfull.jpg" width="500" /> 
 
 
 
