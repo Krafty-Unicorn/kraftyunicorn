@@ -7,11 +7,10 @@ permalink: /products/
 # Products
 Below are a few examples of the items that I sell. Feel free to [contact](mailto:kris@kraftyunicorn.com) me with any questions you might have!
 
-# JUST ADDED 
 # Christmas Ornaments
 <img src="/images/gnomeboth.jpg" width="130"/>
 <img src="/images/gnomeblue.jpg" width="130"/>
-<img src="/images/gnomered.jpg"width="130"/>
+<img src="/images/gnomered.jpg" width="130"/>
 
 # Earrings
 <img src="/images/earringsjack.jpg" width="130" /> 
