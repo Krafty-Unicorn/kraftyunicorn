@@ -8,7 +8,7 @@ permalink: /products/
 Below are a few examples of the items that I sell. Feel free to [contact](mailto:kris@kraftyunicorn.com) me with any questions you might have!
 
 # Christmas Ornaments
-<img src="/images/gnomeboth.jpg" width="130"/>
+<img src="/images/gnomeboth.jpg" width="150"/>
 <img src="/images/gnomeblue.jpg" width="130"/>
 <img src="/images/gnomered.jpg" width="130"/>
 
