@@ -20,3 +20,6 @@ Topeka, KS
 
 
 
+Oktoberfest 2023 at  Prince of Peace in Topeka  
+October 7, 2023  
+10am to 3pm
