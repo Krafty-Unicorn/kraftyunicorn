@@ -7,7 +7,7 @@ permalink: /products/
 # Products
 Below are a few examples of the items that I sell. Feel free to [contact](mailto:kris@kraftyunicorn.com) me with any questions you might have!
 
-# Amigurimi
+# Amigurumi
 <img src="/images/purple succulent.jpg" width="150"/>
 <img src="/images/orange succulent.jpg" width="150"/>
 
