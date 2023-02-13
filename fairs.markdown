@@ -6,7 +6,7 @@ permalink: /fairs/
 
 # Where you can find me!
 
-YMCA Small Business Fair 
+# YMCA Small Business Fair 
 
 March 19th 11:30am to 3:00pm 
 
@@ -20,6 +20,8 @@ Topeka, KS
 
 
 
-Oktoberfest 2023 at  Prince of Peace in Topeka  
+# Oktoberfest 2023 at  Prince of Peace in Topeka  
 October 7, 2023  
 10am to 3pm
+
+<img src="/images/BuyLocal-Small.jpg" width="230"/>

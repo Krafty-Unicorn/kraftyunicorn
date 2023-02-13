@@ -7,10 +7,9 @@ permalink: /products/
 # Products
 Below are a few examples of the items that I sell. Feel free to [contact](mailto:kris@kraftyunicorn.com) me with any questions you might have!
 
-# Christmas Ornaments
-<img src="/images/gnomeboth.jpg" width="230"/>
-<img src="/images/gnomeblue.jpg" width="130"/>
-<img src="/images/gnomered.jpg" width="130"/>
+# Amigurimi
+<img src="/images/purple succulent.jpg" width="150"/>
+<img src="/images/orange succulent.jpg" width="150"/>
 
 # Earrings
 <img src="/images/earringsjack.jpg" width="130" /> 
@@ -54,3 +53,8 @@ Handmade stained glass by my mother, Diane
 <img src="/images/sgdiamondfall.jpg" width="190" /> 
 <img src="/images/sgdiamondfall2.jpg" width="175" /> 
 <img src="/images/sgredstar.jpg" width="180" /> 
+
+# Christmas Ornaments
+<img src="/images/gnomeboth.jpg" width="230"/>
+<img src="/images/gnomeblue.jpg" width="130"/>
+<img src="/images/gnomered.jpg" width="130"/>
