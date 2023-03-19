@@ -21,7 +21,7 @@ Below are a few examples of the items that I sell. Feel free to [contact](mailto
 <img src="/images/Flower Cloisonine.jpg" width="220"/>
 <img src="/images/Skulls 4.jpg" width="220"/>
 <img src="/images/Skulls 5.jpg" width="120"/> 
-<img src="/images/small ball cloisonine.jpg" width="220" />
+<img src="/images/Small ball cloisonine.jpg" width="220" />
 <img src="/images/tumbled bead.jpg" width="230"/>
 <img src="/images/earringsoutsideskullblack.jpg" width="130" />
 <img src="/images/Dream weave.jpg" width="230"/>
