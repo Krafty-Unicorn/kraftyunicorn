@@ -13,12 +13,19 @@ Below are a few examples of the items that I sell. Feel free to [contact](mailto
 <img src="/images/orange succulent.jpg" width="150"/>
 
 # Earrings
-<img src="/images/earringsjack.jpg" width="130" /> 
-<img src="/images/earringspumpkin.jpg" width="130" /> 
-<img src="/images/earringscandy.jpg" width="130" /> 
-<img src="/images/earringsskull.jpg" width="130" /> 
-<img src="/images/earringssnowman.jpg" width="130" />
-<img src="/images/earringsoutsideskullblack.jpg" width="130" /> 
+<img src="/images/Blue butterfly and flower cloisonine.jpg" width="130"/>
+<img src="/images/Fish cloisonine.jpg" width="130"/>
+<img src="/images/Rainbow.jpg" width="130"/>
+<img src="/images/Skulls 1.jpg" width="230"/>
+<img src="/images/Skulls 6.jpg" width="130"/>
+<img src="/images/Flower cloisonine.jpg" width="220"/>
+<img src="/images/Skulls 4.jpg" width="220"/>
+<img src="/images/Skulls 5.jpg" width="120"/> 
+<img src="/images/small ball cloisonine.jpg" width="220" />
+<img src="/images/tumbled bead.jpg" width="230"/>
+<img src="/images/earringsoutsideskullblack.jpg" width="130" />
+<img src="/images/Dream weave.jpg" width="230"/>
+<img src="/images/earringsceltic.jpg" width="130" />
 
 # Fairy Garden Wind Chimes
 <img src="/images/wccandy.jpg" width="130"/>
