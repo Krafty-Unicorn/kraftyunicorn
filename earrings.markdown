@@ -21,5 +21,4 @@ permalink: /earrings/
 <img src="/images/earringsceltic.jpg" width="130" />
 <img src="/images/butterflyearrings.jpg" width="130"/>
 <img src="/images/butterflyclo.jpg" width="130"/>
-<img src="/images/dragonflyearrings.jpg" width="130"/>
-
+<img src="/images/dragonflyearrings.jpg" width="130"/> 
