@@ -12,7 +12,7 @@ Below are a few examples of the items that I sell. Feel free to [contact](mailto
 <img src="/images/Purple succulent.jpg" width="150"/>
 <img src="/images/orange succulent.jpg" width="150"/>
 
-# Earrings
+# [Earrings](/earrings)
 <img src="/images/Blue butterfly and flower cloisonine.jpg" width="130"/>
 <img src="/images/Fish cloisonine.jpg" width="130"/>
 <img src="/images/Rainbow.jpg" width="130"/>
@@ -26,6 +26,9 @@ Below are a few examples of the items that I sell. Feel free to [contact](mailto
 <img src="/images/earringsoutsideskullblack.jpg" width="130" />
 <img src="/images/Dream weave.jpg" width="230"/>
 <img src="/images/earringsceltic.jpg" width="130" />
+<img src="/images/butterflyearrings.jpg" width="130"/>
+<img src="/images/butterflyclo.jpg" width="130"/>
+<img src="/images/dragonflyearrings.jpg" width="130"/>
 
 # Fairy Garden Wind Chimes
 <img src="/images/wccandy.jpg" width="130"/>
