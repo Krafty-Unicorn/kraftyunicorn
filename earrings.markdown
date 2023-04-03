@@ -2,6 +2,7 @@
 layout: default
 title: Earrings
 permalink: /earrings/
+tags: product
 ---
 
 
