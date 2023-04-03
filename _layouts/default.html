@@ -34,7 +34,11 @@
             <!-- <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
             <div id="header-links">
                 <a href="/" class="btn">About</a>
-                <a href="/products" class="btn">Products</a>
+                {% if page.dir == "/products/" or page.tags contains "product" %}
+                  <a href="/products" class="btn active">Products</a>
+                {% else %}
+                  <a href="/products" class="btn">Products</a>
+                {% endif %}
                 <a href="/fairs" class="btn">Fairs</a>
                 <a href="/contact" class="btn">Contact</a>
                 {% if site.show_downloads %}
@@ -42,6 +46,11 @@
                     <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
                 {% endif %}
             </div>
+            {% if page.dir == "/products/" or page.tags contains "product" %}
+            <div id="products-links">
+              <a href="/earrings" class="btn">Earrings</a>
+            </div>
+            {% endif %}
         </div>
     </header>
 
