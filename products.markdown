@@ -11,6 +11,7 @@ Below are a few examples of the items that I sell. Feel free to [contact](mailto
 <img src="/images/crochet_succ.jpg" width="265/">
 <img src="/images/Purple succulent.jpg" width="150"/>
 <img src="/images/orange succulent.jpg" width="150"/>
+<img src="/images/dragon.jpg" width="200"/>
 
 # [Earrings](/earrings)
 <img src="/images/Blue butterfly and flower cloisonine.jpg" width="130"/>
