@@ -6,9 +6,7 @@ permalink: /fairs/
 
 # Where you can find me!
 
-# YMCA Small Business Fair 
-
-# Holiday Bazaar at A&H Farm in Manhattan, KS
+Holiday Bazaar at A&H Farm in Manhattan, KS
 Sunday December 17, 2023
 11am- 5pm
 
