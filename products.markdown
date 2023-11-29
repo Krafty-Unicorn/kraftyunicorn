@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Products
-permalink: /products/
+permalink: /Products/
 ---
+# Shop Online <a href="https://kraftyshop.square.site/s/shop" target="_blank" rel="noopener" title="">Here
 
 # Products
 Below are a few examples of the items that I sell. Feel free to [contact](mailto:kris@kraftyunicorn.com) me with any questions you might have!
