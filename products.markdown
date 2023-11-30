@@ -3,7 +3,10 @@ layout: default
 title: Products
 permalink: /products/
 ---
-# Shop <a href="https://kraftyshop.square.site/s/shop" target="_blank" rel="noopener" title="">Online
+<script src="https://kit.fontawesome.com/f8c67e7a1e.js" crossorigin="anonymous"></script>
+
+# Shop Online here <a href="https://kraftyshop.square.site/s/shop"><i class="fa-solid fa-cart-shopping"></i> </a>
+
 
 # Products
 Below are a few examples of the items that I sell. Feel free to [contact](mailto:kris@kraftyunicorn.com) me with any questions you might have!
